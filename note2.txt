@@ -1,1 +1,2 @@
 ini merupakan file yang berasal dari note2
+test
