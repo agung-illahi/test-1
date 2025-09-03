@@ -1,2 +1,3 @@
 ini merupakan file yang berasal dari note2
-test
+file ini di tambah dari cabang ke 2
+
